@@ -1,4 +1,4 @@
-# KIP-[X]: Your KIP title
+# KIP-[X] Your KIP title
 
 ```
 kip: [X]
