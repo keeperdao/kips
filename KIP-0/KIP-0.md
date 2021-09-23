@@ -42,8 +42,8 @@ The header is a section at the top of a KIP which contains metadata information 
 
 - **`status`** Proposals have a status to let people know if what they are reading is a final thing, or just a draft.
    - `draft` For when the proposal has been merged into the governance repository.
-   - `adopted` Review has recommended `accept`, and tokenholders did not object.
-   - `declined` Review has recommended `reject`, and tokenholders did not object.
+   - `adopted` Review has recommended `adopt`, and tokenholders did not object.
+   - `declined` Review has recommended `decline`, and tokenholders did not object.
    - `withdrawn` Has been withdrawn by the author.
 
 - **`created`** Date that the proposal was created. Should be in [ISO 8601](https://wikipedia.org/en/wiki/ISO_8601) format (YYYY-MM-DD).
