@@ -20,8 +20,8 @@ created: [YYYY-MM-DD]
 
 ### Templates 
 
-- [KIP-[X]-T1 Foo process](./KIP-[X]-T1.template.md) 
-- [KIP-[X]-T2 Bar process](./KIP-[X]-T2.template.md) 
+- [KIP-[X]-T1 Foo process](./KIP-[X]-T1.md) 
+- [KIP-[X]-T2 Bar process](./KIP-[X]-T2.md) 
 - ...
 
 ## Section title 
@@ -36,11 +36,11 @@ created: [YYYY-MM-DD]
 
 This section defines the process for Foo. 
 
-Use the template located at [KIP-[X]-T1.template.md](./KIP-[X]-T1.template.md).
+Use the template located at [KIP-[X]-T1.md](./KIP-[X]-T1.md).
 
 ### Bar process 
 
 This section defines the process for Bar. 
 
-Use the template located at [KIP-[X]-T2.template.md](./KIP-[X]-T2.template.md).
+Use the template located at [KIP-[X]-T2.md](./KIP-[X]-T2.md).
 
