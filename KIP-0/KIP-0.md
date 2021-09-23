@@ -11,7 +11,7 @@ created: 2021-09-02
 Adopt the specified guidelines below, defining the KeeperDAO governance framework.
 
 ### Summary
-[KIP-0] defines a simple format for writing KeeperDAO improvement proposals (KIPs), and illustrates how a KIP goes from idea to reality, through consensus. Finally, it defines governance helpers called Sophons that coordinate the governance process.
+KIP-0 defines a simple format for writing KeeperDAO improvement proposals (KIPs), and illustrates how a KIP goes from idea to reality, through consensus. Finally, it defines governance helpers called Sophons that coordinate the governance process.
 
 ### Background
 Standard and easy-to-follow guidelines let more people participate in governance. As a DAO, one of our primary missions is to enable as many people as possible to join, contribute, and add value. Standards also enable us to build tools and automated systems that enhance the quality-of-life for proposal authors and editors. Doing this properly requires striking the right balance between accessibility, robustness, and formality. 
