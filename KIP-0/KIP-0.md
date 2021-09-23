@@ -53,10 +53,6 @@ The header is a section at the top of a KIP which contains metadata information 
 
 A KIP can define templates for future KIPs to use when carrying out routine governance processes described in the KIP. These templates ensure that the information being provided each time the process is carried out is consistent, and helps streamline the process in general.
 
-### Licensing
-
-Licenses say who owns the content that gets published in a KIP. Authors are free to define whatever license they want, but to make it easy, just use [CC0](https://creativecommons.org/publicdomain/zero/1.0/). This license makes the KIP a part of the public domain, so that everybody owns it.
-
 ## Proposal lifecycle
 
 ### Writing a KIP
