@@ -18,17 +18,10 @@ Onboard the following individuals as Sophons.
 - General explanation of who is being onboarded. 
 - General explanation of why this change is needed now.
 
-## Sophons to onboard 
+## Individuals to onboard 
 
-| Name             | Other contact        | Work area    |
-| ---------------- | -------------------- | ------------ |
-| Mister Rook      | mrrook@keeperdao.com | Contributor  |
-| coolkeeper5      | coolkeep@cool.com    | Keeper       |
-| catprince        | cat@prince.org       | Community    |
-
-## Information supporting onboarding
-
-- Past contributions to the project or DAO
-- Expertise in a certain subject matter
-- Any other reason they would be desirable
-
+| Name             | Contact              | Work area    | Description
+| ---------------- | -------------------- | ------------ | ------------
+| Mister Rook      | mrrook@keeperdao.com | Contributor  | Has always been there for us, like a father. His fatherly demeanor and presence will protect us from all bad proposals, and do the best for the best proposals.
+| coolkeeper5      | coolkeep@cool.com    | Keeper       | They are a very cool keeper, and they know what's cool. They can bring a unique perspective and will ensure that the needs of cool keepers are being met, and look at proposals with a keeper's eye.
+| catprince        | cat@prince.org       | Community    | As a prince, he is uniquely positioned to evaluate princely matters.
