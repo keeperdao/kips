@@ -19,8 +19,8 @@ Standard and easy-to-follow guidelines let more people participate in governance
 This KIP takes inspiration from a number of sources, including the Ethereum Improvement Proposal process, the IETF RFC standard, the W3C, and the Maker Improvement Proposal.
 
 ### Templates
-   - [KIP-0-T1 Sophon onboarding](./KIP-0-T1.template.md)
-   - [KIP-0-T2 Sophon offboarding](./KIP-0-T2.template.md)
+   - [KIP-0-T1 Sophon onboarding](./KIP-0-T1.md)
+   - [KIP-0-T2 Sophon offboarding](./KIP-0-T2.md)
 
 ## KeeperDAO improvement proposals 
 
@@ -85,12 +85,12 @@ Their role is to ensure that every KIP has been given adequate attention before 
 
 This section defines a process for onboarding one or more Sophons. 
 
-Use the template located at [KIP-0-T1.template.md](./KIP-0-T1.template.md).
+Use the template located at [KIP-0-T1.md](./KIP-0-T1.md).
 
 ### Sophon offboarding process 
 
 This section defines a process for offboarding one or more Sophons.
 
-Use the template located at [KIP-0-T2.template.md](./KIP-0-T2.template.md)
+Use the template located at [KIP-0-T2.md](./KIP-0-T2.md)
 
 
