@@ -11,6 +11,7 @@ created: [YYYY-MM-DD]
 ## Preface 
 
 ### Proposal
+
 Onboard the following individuals as Sophons.
 
 ### Background
@@ -20,7 +21,7 @@ Onboard the following individuals as Sophons.
 
 ## Individuals to onboard 
 
-| Name             | Contact              | Work area    | Description
+| Name             | Contact              | Work area    | Rationale
 | ---------------- | -------------------- | ------------ | ------------
 | Mister Rook      | mrrook@keeperdao.com | Contributor  | Has always been there for us, like a father. His fatherly demeanor and presence will protect us from all bad proposals, and do the best for the best proposals.
 | coolkeeper5      | coolkeep@cool.com    | Keeper       | They are a very cool keeper, and they know what's cool. They can bring a unique perspective and will ensure that the needs of cool keepers are being met, and look at proposals with a keeper's eye.
