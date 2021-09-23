@@ -35,17 +35,13 @@ It doesn't have to be perfect. Publish early and often, and we can make it bette
 The header is a section at the top of a KIP which contains metadata information about the KIP that computers can use to help organize governance. If you don't know what to write in a field, just write 'none'.
 
 - **`kip`** The proposal number, for example, `0`.
-
 - **`use`** *(Optional)* The name of the proposal template being used.
-
 - **`author`** A list of author names (or usernames if anonymous), along with e-mail addresses or another way to contact them.
-
 - **`status`** Proposals have a status to let people know if what they are reading is a final thing, or just a draft.
    - `draft` For when the proposal has been merged into the governance repository.
    - `adopted` Review has recommended `adopt`, and tokenholders did not object.
    - `declined` Review has recommended `decline`, and tokenholders did not object.
    - `withdrawn` Has been withdrawn by the author.
-
 - **`created`** Date that the proposal was created. Should be in [ISO 8601](https://wikipedia.org/en/wiki/ISO_8601) format (YYYY-MM-DD).
 
 ### Templates
