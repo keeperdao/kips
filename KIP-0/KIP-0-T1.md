@@ -20,7 +20,7 @@ Onboard the following individuals as Sophons.
 
 ## Sophons to onboard 
 
-| Name or username | Contact address      | Area of work |
+| Name             | Other contact        | Work area    |
 | ---------------- | -------------------- | ------------ |
 | Mister Rook      | mrrook@keeperdao.com | Contributor  |
 | coolkeeper5      | coolkeep@cool.com    | Keeper       |
