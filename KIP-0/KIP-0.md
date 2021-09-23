@@ -45,7 +45,6 @@ The header is a section at the top of a KIP which contains metadata information 
    - `adopted` Review has recommended `accept`, and tokenholders did not object.
    - `declined` Review has recommended `reject`, and tokenholders did not object.
    - `withdrawn` Has been withdrawn by the author.
-   - `living` Has been accepted once, and may be updated by subsequent proposals.
 
 - **`created`** Date that the proposal was created. Should be in [ISO 8601](https://wikipedia.org/en/wiki/ISO_8601) format (YYYY-MM-DD).
 
