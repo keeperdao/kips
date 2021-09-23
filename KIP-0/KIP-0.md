@@ -77,8 +77,8 @@ Once merged, Sophons will research and discuss your proposal to arrive at a non-
 A Sophon must create a Snapshot vote immediately after publishing a recommendation. The vote stays open for 1 week. During this time, tokenholders may use their tokens to vote against the recommendation. 
 
 If enough tokens vote against the recommendation, the KIP remains a `draft`. Otherwise, the KIP status becomes:
-- `adopted` if the recommendation was `accept`.
-- `declined` if the recommendation was `reject`.
+- `adopted` if the recommendation was `adopt`.
+- `declined` if the recommendation was `decline`.
 
 ## Sophons 
 
