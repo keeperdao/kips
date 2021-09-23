@@ -11,6 +11,7 @@ created: [YYYY-MM-DD]
 ## Preface 
 
 ### Proposal
+
 Offboard the following individuals as Sophons.
 
 ### Background
@@ -18,18 +19,8 @@ Offboard the following individuals as Sophons.
 - General explanation of who is being offboarded. 
 - General explanation of why this change is needed now.
 
-## Sophons to offboard 
+## Individuals to offboard 
 
-| Name or username | Contact address      | Area of work |
-| ---------------- | -------------------- | ------------ |
-| Mister Rook      | mrrook@keeperdao.com | Contributor  |
-| coolkeeper5      | coolkeep@cool.com    | Keeper       |
-| catprince        | cat@prince.org       | Community    |
-
-## Information supporting offboarding
-
-- Evidence of misconduct
-- Evidence of non-responsiveness or non-participation when appropriate
-- Evidence of conflict of interest
-- Evidence of desire (if the author is the one being offboarded)
-
+| Name             | Contact              | Work area    | Rationale
+| ---------------- | -------------------- | ------------ | ------------
+| catprince        | cat@prince.org       | Community    | Has to step down in order to become the cat king.
