@@ -2,7 +2,7 @@
 ```
 kip: 0
 author: hazard <hazard@keeperdao.com>
-status: draft
+status: adopted 
 created: 2021-09-02
 ```
 ## Preface 
