@@ -29,7 +29,7 @@ Left unaltered, the second half of Act IV emissions will break down as follows:
 |Hiding Vault|40|10395|231|
 |Hiding Game|40|10395|231|
 |Liquidity Pools|20|5197.5|115.5|
-|**Total**|**100**|**51975**|**577.5**|
+|**Total**|**100**|**25987.5**|**577.5**|
 
 If this proposal is adopted, the second half of Act IV emissions will instead break down as follows:
 
