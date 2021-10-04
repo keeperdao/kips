@@ -1,75 +1,92 @@
-# KIP-0 KeeperDAO Governance 
+# KIP0: KeeperDAO Governance
 ```
 kip: 0
+title: KeeperDAO Governance
 author: hazard <hazard@keeperdao.com>
-status: adopted 
+status: draft
+tags: none
 created: 2021-09-02
+replaced-by: none
+replaces: none
 ```
-## Preface 
+## Preface
 
-### Proposal
-Adopt the specified guidelines below, defining the KeeperDAO governance.
 
 ### Summary
 KIP-0 defines a simple format for writing KeeperDAO improvement proposals (KIPs), and illustrates how a KIP goes from idea to reality, through consensus. Finally, it defines governance helpers called Sophons that coordinate the governance process.
 
 ### Background
-Standard and easy-to-follow guidelines let more people participate in governance. As a DAO, one of our primary missions is to enable as many people as possible to join, contribute, and add value. Standards also enable us to build tools and automated systems that enhance the quality-of-life for proposal authors and editors. Doing this properly requires striking the right balance between accessibility, robustness, and formality. 
+Proposals, and the process they go through in order to reach consensus, are two of the most basic elements of DAO governance. As a DAO, one of our primary missions is to enable as many people as possible to join, contribute, and add value, and that begins with setting up a basic set of expectations for how governance operates.
 
-This KIP takes inspiration from a number of sources, including the Ethereum Improvement Proposal process, the IETF RFC standard, the W3C, and the Maker Improvement Proposal.
+### Proposal
+Adopt the specified guidelines below, defining the KeeperDAO governance.
 
 ### Templates
    - [KIP-0-T1 Sophon onboarding](./KIP-0-T1.md)
    - [KIP-0-T2 Sophon offboarding](./KIP-0-T2.md)
 
-## KeeperDAO improvement proposals 
 
-### Style 
+## KeeperDAO improvement proposals
 
-Write your KIP in [Markdown](https://en.wikipedia.org/wiki/Markdown), following the [KIP template](./KIP.template.md). Try to write in plain English, because not everyone is a native speaker. Clearly and completely describe the proposal, and why it is an improvement. 
+### What is a KIP?
+A KIP is a proposal that an author or group of authors would like to be evaluated by the members of KeeperDAO. The members of KeeperDAO shall work with the author of a KIP to review and refine its content, before using an agreed-upon consensus procedure to collectively determine whether to adopt or decline the final proposal. 
 
-It doesn't have to be perfect. Publish early and often, and we can make it better together. Governance is about communicating. As long as we can communicate, it will be okay. 
+### Minimum style requirements
+A KIP should be written in plain language, formatted as [Markdown](https://en.wikipedia.org/wiki/Markdown). It should clearly and completely describe the proposal, its motivations, and why the author believes it improves the status quo. Where applicable, it should also describe a set of steps to enact the proposal. Authors and editors should work together to ensure that the KIP meets at least the following minimum style requirements:
 
-### Header fields
+- **Consistency**: Does it contradict itself or any other non-historical KIP?
+- **Accuracy**: Are its data, arguments, and understanding of systems complete, accurate, and up-to-date?
+- **Feasibility**: Does it propose or require things that are impossible ot impractical to accomplish?
+- **Verifiability**: Can anyone verify for themselves that an implemention did occur in the way described by the KIP?
 
-The header is a section at the top of a KIP which contains metadata information about the KIP that computers can use to help organize governance. If you don't know what to write in a field, just write 'none'.
 
-- **`kip`** The proposal number, for example, `0`.
-- **`use`** *(Optional)* The name of the proposal template being used.
-- **`author`** A list of author names (or usernames if anonymous), along with e-mail addresses or another way to contact them.
-- **`status`** Proposals have a status to let people know if what they are reading is a final thing, or just a draft.
-   - `draft` For when the proposal has been merged into the governance repository.
-   - `adopted` Review has recommended `adopt`, and tokenholders did not object.
-   - `declined` Review has recommended `decline`, and tokenholders did not object.
-   - `withdrawn` Has been withdrawn by the author.
-- **`created`** Date that the proposal was created. Should be in [ISO 8601](https://wikipedia.org/en/wiki/ISO_8601) format (YYYY-MM-DD).
+### Recordkeeping
+KIPs form an archival series, meaning that each KIP has a unique archival serial number, and is not able to have its essential content changed once it has become finalized. At the top of every KIP is a header which contains metadata that editors can use to help organize the governance record. 
 
-### Templates
+- `kip` The proposal number, for example, `0`.
+- `use` *(Optional)* The name of the proposal template being used.
+- `author` A list of author names (or usernames if anonymous), along with e-mail addresses or another way to contact them.
+- `status` Proposals have a status, one of the following set: `draft`, `review`, `last-call`, `final`
+- `tags` Comma-separated list of tags from the set `accepted`, `rejected`, `implemented`, `withdrawn`, `historical`.
+- `created` Date that the proposal was created. Should be in [ISO 8601](https://wikipedia.org/en/wiki/ISO_8601) format (YYYY-MM-DD).
+- `replaced-by` *(Optional)* KIP that replaces the KIP.
+- `replaces` *(Optional)* Comma-separated list of KIPs that the KIP replaces.
 
-A KIP can define templates for future KIPs to use when carrying out routine governance processes described in the KIP. These templates ensure that the information being provided each time the process is carried out is consistent, and helps streamline the process in general.
+These fields and their values may be changed in the governance repository without the need for a new consensus, as long as the change is recorded in the repository and carried out by those delegated to do so.
 
-## Proposal lifecycle
+## Governance lifecycle
 
-### Writing a KIP
+1. Author posts KIP draft on forum 
+    1. When a new KIP appears on the forum, a notification and summary shall be posted to a relevant channel.
 
-1. Discuss your idea with people on the Discord or forum.
-2. Write your KIP and post it in a forum thread.
-3. Get feedback and try to establish a rough consensus.
-4. Open a pull request to this repository, and get an editor to merge it.
+2. Crowd Consensus
+    1. The author shall allow sufficient time for, and make a best effort to reach, rough consensus with the community about the content of the draft proposal. 
+    2. When the author determines that rough consensus has been reached, the author shall communicate their intention to submit the proposal to the governance record for review.
+    3. The author shall make a best effort to allow sufficient time for all interested parties to post final comments on the draft before formal submission.
+    
+3. Merge to Git repository
+    1. The author shall open a pull request to the governance repository, aided by a Sophon if necessary.
+    2. A Sophon shall add the header fields to the KIP, and mark its status as `draft`, before merging it.
 
-### Reviewing a KIP
+4. Sophon Consensus
+    1. Sophons shall maintain a public queue of the merged KIPs to be reviewed. This queue shall be ordered chronologically according to the date of the git merge.
+    2. Sophons must make a best effort to review each KIP in order, and acheive rough consensus.
+    3. When a KIP enters review, a Sophon shall change the KIP status from `draft` to `review`.
+       1. During review, Sophons shall make a best effort to conduct their deliberations in public and record minutes, as well as be available for public feedback.
+       2. If Sophons cannot reach rough consensus, the proposal will return to `draft` status.
+       3. Otherwise, the Sophons will assign the KIP a voting period and change its status from `review` to `last-call`.
 
-Once merged, Sophons will research and discuss your proposal to arrive at a non-binding recommendation within 1 month of the pull request being merged. They will recommend one of 2 things:
-- `adopt`: the Sophons think the KIP is good and should be adopted by the DAO.
-- `decline`: the Sophons think the KIP isn't good and should not be adopted by the DAO. 
+5. Last call period
+    1. Sophons and the KIP author shall make efforts to notify interested parties, allow sufficient time to facilitate discussion, and uncover any remaining objection or correction to the proposal before objection voting begins.
 
-### Voting on a KIP
-
-A Sophon must create a Snapshot vote immediately after publishing a recommendation. The vote stays open for 1 week. During this time, tokenholders may use their tokens to vote against the recommendation. 
-
-If enough tokens vote against the recommendation, the KIP remains a `draft`. Otherwise, the KIP status becomes:
-- `adopted` if the recommendation was `adopt`.
-- `declined` if the recommendation was `decline`.
+5. Objection Voting
+    1. Objection voting shall run for a minimum of 7 days, except for matters which present a clear, imminent danger to users, protocols, or the DAO.
+    2. The vote shall have two options, 'Present' and 'Object', and shall include a prominent message explaining the difference between apparent consensus and majority voting.
+    3. Best effort shall be made to notify interested parties about the objection vote once it is live.
+    
+6. Ratification
+   1. If enough tokens select the 'Object' option at the close of the vote, the KIP does not have tokenholder consensus, and it returns to `draft` status. If there is a non-zero quorum requirement, and not enough tokens have selected the 'No objection' option, then the proposal is returned to `draft` status. Otherwise, the proposal is assigned `final` status.
+   2. The result of the vote shall be communicated via Discord and Twitter.
 
 ## Sophons 
 
@@ -88,5 +105,3 @@ Use the template located at [KIP-0-T1.md](./KIP-0-T1.md).
 This section defines a process for offboarding one or more Sophons.
 
 Use the template located at [KIP-0-T2.md](./KIP-0-T2.md)
-
-
