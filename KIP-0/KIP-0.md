@@ -1,4 +1,4 @@
-# KIP0: KeeperDAO Governance
+# KIP-0: KeeperDAO Governance
 ```
 kip: 0
 title: KeeperDAO Governance
