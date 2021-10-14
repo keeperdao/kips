@@ -1,7 +1,7 @@
 # KIP- Act IV Emissions Reduction
 
 ## Proposal
-Reduce remaining Act IV daily emissions for the Hiding Vault by 50% or 75%. 
+Reduce remaining Act IV daily emissions for the Hiding Vault by 75%. 
 
 ## Background
 
@@ -26,17 +26,7 @@ For reference, here is the current remaining emissions for the last quarter of A
 
 Assuming that this could go live right as the third quarter of Act IV's emissions for HV that were minted run out, the final proposed ROOK rewards for Act IV's final quarter would be: 
 
-Option 1, 50% HV emissions cut:
-
-|Name|Percentage|# ROOK Remaining |# ROOK per day|
-|---|---|---|---|
-|Hiding Game|40|5197.5|231|
-|Hiding Vault|20|2598.75|115.5|
-|Liquidity Pools|20|2598.75|115.5|
-|Not Minted|20|2598.75|0|
-|Total|100|12993.75|462|
-
-Option 2, 75% HV emissions cut:
+75% HV emissions cut:
 
 |Name|Percentage|# ROOK Remaining |# ROOK per day|
 |---|---|---|---|
@@ -48,9 +38,8 @@ Option 2, 75% HV emissions cut:
 
 ## Specification
 
-(to be completed once the poll above receives sufficient votes)
-Before block ____, mint and distribute remaining Act IV rewards per the schedule below:
-Hiding Vault rewards, mint _____ ROOK and send to 0xae7b93a591c37ea37ed8bc7b6b999c85f2ed2405
-Reduce per block rewards factor of Hiding Vaults by 50%
+Before block 13468133, mint and distribute remaining Act IV rewards per the schedule below:
+Hiding Vault rewards, mint 1299.375 ROOK and send to 0xae7b93a591c37ea37ed8bc7b6b999c85f2ed2405
+Reduce per block rewards factor of Hiding Vaults by 75%
 
 ---
