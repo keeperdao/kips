@@ -38,7 +38,7 @@ Assuming that this could go live right as the third quarter of Act IV's emission
 |Hiding Vault|10|1299.375|57.75|
 |Liquidity Pools|20|2598.75|115.5|
 |Not Minted|30|3898.125|0|
-|Total|100|12993.75|462|
+|Total|100|12993.75|404.25|
 
 ## Specification
 
