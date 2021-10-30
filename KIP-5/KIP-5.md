@@ -4,7 +4,7 @@
 kip: 5
 title: Acquire CVX position
 author: Destroyr, 10delta, Curmudgeon, AlCappuccino, Yung Peso, Apeseason, Akin Sawyerr, Shahar, 2x, Cryptomessiah, DaddyMatty, Doge♜♜♜, spcxta, lapras, Pai-Sho, anon intern, pen, thereal
-status: las-call
+status: last-call
 created: 2020-10-28
 ```
 
