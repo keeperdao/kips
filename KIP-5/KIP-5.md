@@ -1,4 +1,4 @@
-# KIP-5 Acquire CVX position
+# KIP-5: Acquire CVX position
 
 ```
 kip: 5
