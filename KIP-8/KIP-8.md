@@ -1,4 +1,4 @@
-KIP-8: Lower Default Voting Period to 3 Days
+# KIP-8: Lower Default Voting Period to 3 Days
 
 ```
 kip: 8
