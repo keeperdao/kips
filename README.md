@@ -18,4 +18,4 @@ New KIPs are created on the [KeeperDAO Governance Forum](https://forum.keeperdao
 Anybody!
 
 ### How are KIPs decided on?
-Using the [KeeperDAO Governance](/https://www.keeperdao.com/files/gov-beigepaper.pdf), a system of apparent consensus.
+Using the [KeeperDAO Governance](https://www.keeperdao.com/files/gov-beigepaper.pdf), a system of apparent consensus.
