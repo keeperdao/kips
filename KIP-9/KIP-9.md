@@ -49,13 +49,13 @@ I propose these emissions be minted in 102528 block (~16 day) increments. This m
 
 ### Key Blocks
 
-**Act IV ends:** [Block 13617668](https://etherscan.io/block/countdown/13617668)
-**Second mint:** [Block 13720196](https://etherscan.io/block/countdown/13720196)
-**Third mint:** [Block 13822724](https://etherscan.io/block/countdown/13822724)
-**Fourth mint:**  [Block 13925252](https://etherscan.io/block/countdown/13925252)
-**Fifth mint:** [Block 14027780](https://etherscan.io/block/countdown/14027780)
-**Sixth (final) mint:** [Block 14130308](https://etherscan.io/block/countdown/14130308)
-**Act V ends:** [Block 14232836](https://etherscan.io/block/countdown/14232836)
+- **Act IV ends:** [Block 13617668](https://etherscan.io/block/countdown/13617668)
+- **Second mint:** [Block 13720196](https://etherscan.io/block/countdown/13720196)
+- **Third mint:** [Block 13822724](https://etherscan.io/block/countdown/13822724)
+- **Fourth mint:**  [Block 13925252](https://etherscan.io/block/countdown/13925252)
+- **Fifth mint:** [Block 14027780](https://etherscan.io/block/countdown/14027780)
+- **Sixth (final) mint:** [Block 14130308](https://etherscan.io/block/countdown/14130308)
+- **Act V ends:** [Block 14232836](https://etherscan.io/block/countdown/14232836)
 
 
 ## Specification
