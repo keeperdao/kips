@@ -17,8 +17,6 @@ Upon the passing of KIP-2 and KIP-4, we have seen a decrease in Hiding Vault emi
 
 Accordingly, I believe we should emit the same amount of ROOK as we do today (and was anticipated for Act V, before KIP-2). This is 404.25 ROOK per day. This is 38808 ROOK for the whole epoch (~96 days, depending on block speed).
 
----
-
 ### KIP-2 Context
 The key tenants of KIP-2, from @whatsthedeetz, were:
 
@@ -49,7 +47,7 @@ Accordingly, I propose the following be default emissions for Act V:
 
 I propose these emissions be minted in 102528 block (~16 day) increments. This means every 102528 blocks, 6468 ROOK would be minted as outlined above. This will change with the release of the Coordination Game.
 
-### KIPnd Key Blocks
+### Key Blocks
 
 **Act IV ends:** [Block 13617668](https://etherscan.io/block/countdown/13617668)
 **Second mint:** [Block 13720196](https://etherscan.io/block/countdown/13720196)
@@ -59,7 +57,6 @@ I propose these emissions be minted in 102528 block (~16 day) increments. This m
 **Sixth (final) mint:** [Block 14130308](https://etherscan.io/block/countdown/14130308)
 **Act V ends:** [Block 14232836](https://etherscan.io/block/countdown/14232836)
 
----
 
 ## Specification
 
