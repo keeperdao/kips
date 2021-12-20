@@ -3,7 +3,7 @@
 kip: 10
 title: Provide ROOK-ETH Uniswap v3 Liquidity with Visor Finance
 author: bjp333 <brian@visor.finance>
-status: draft
+status: last-call
 tags: none
 created: 2021-10-21
 replaced-by: none
