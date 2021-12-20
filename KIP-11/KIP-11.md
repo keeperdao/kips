@@ -1,5 +1,12 @@
 # KIP-11: Co-invest ROOK in Bancor ROOK-BNT Pool
 
+```
+kip: 11
+title: Co-invest ROOK in Bancor ROOK-BNT Pool
+author: whatsthedeetz <whatsthedeetz@keeperdao.com>
+status: last-call
+created: 2021-10-29
+```
 ## Proposal
 This proposal seeks to co-invest $1.6M in KeeperDAO Treasury ROOK (approx. 6400 ROOK) by staking it in the ROOK-BNT pool on Bancor. This proposal is contingent on Bancor approving an their matching governance proposal to increase in the co-investment limit from 1.3M BNT to 2.1M BNT and approve LM rewards for the ROOK-BNT pool.
 
