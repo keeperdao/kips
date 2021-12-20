@@ -1,5 +1,14 @@
 # KIP-10: Provide ROOK-ETH Uniswap v3 Liquidity with Visor Finance
-
+```
+kip: 10
+title: Provide ROOK-ETH Uniswap v3 Liquidity with Visor Finance
+author: bjp333 <brian@visor.finance>
+status: draft
+tags: none
+created: 2021-10-21
+replaced-by: none
+replaces: none
+```
 ## Proposal
 * Treasury management for KeeperDao’s protocol controlled assets for the ROOK-ETH pool on Uniswap v3
 
