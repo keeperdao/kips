@@ -2,10 +2,11 @@
 ```
 kip: 12
 title: Empower key contributors to expand and organize KeeperDAO
-authors: hazard <hazard@keeperdao.com>, 
+authors: hazard <hazard@keeperdao.com>
 status: last-call
 created: 2021-12-10
 ```
+
 ## Proposal
 
 Appoint key contributors @j_z and @hazard as CTO, CEO and empower them to re-structure and expand KeeperDAO over the next three (3) months, with the continuous review and consent of Sophons and members of the community.
