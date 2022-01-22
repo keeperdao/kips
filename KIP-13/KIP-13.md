@@ -19,7 +19,7 @@ Due to the factors outlined below, it appears as though the price of ROOK is und
 * The reorganization of the DAO will allow us to move more nimbly and be more effective in our decision making/execution
 * The value of ROOK is near or below NAV of the treasury
 
-To acquire this amount of ROOK, KD should use a combination of Bitcoin and Ether in our treasury to acquire up to $4,000,000 worth. Utilizing these assets is preferred to leveraging our stablecoins as it reduces the amount of directional asset risk that the DAO assumes. 
+To acquire this amount of ROOK, KD should use a combination of Bitcoin and Ether in our treasury to acquire up to $5,000,000 worth. Utilizing these assets is preferred to leveraging our stablecoins as it reduces the amount of directional asset risk that the DAO assumes. 
 
 ### Potential Strategic Uses
 
