@@ -7,7 +7,7 @@ status: last-call
 created: 2022-01-22
 ```
 ## Proposal
-Buy back an amount of circulating ROOK equivalent to up to $5,000,000 and deposit it in the DAO Treasury. 
+Utilize up to $5,000,000 of DAO Treasury ETH and BTC to buy back circulating ROOK and deposit it in the DAO Treasury. 
 
 ## Background
 ### Summary
@@ -42,7 +42,4 @@ To acquire this amount of ROOK, KD should use a combination of Bitcoin and Ether
 
 ## Specification
 
-Prior to the launch of the CG, a maximum of $5,000,000 in value from the DAO treasury may be used to acquire ROOK from the open market, using a combination of BTC and ETH at the discretion of the treasury multisig signers. The acquired ROOK will be deposited in the DAO Treasury.
-
-The execution of the buyback will be at the discretion of the treasury multisig signers, with the potential to delegate all or part of the execution to an individual from among the signers. Upon completion, an update will be announced on Discord and Twitter with the full transaction details.
-
+Prior to the launch of the CG, a maximum of $5,000,000 of DAO Treasury ETH and BTC may be used to acquire ROOK from the open market at the discretion of the treasury multisig signers, with the potential to delegate all or part of the execution to an individual from among the signers. The acquired ROOK will be deposited in the DAO Treasury. Upon completion, an update will be announced on Discord and Twitter with the full transaction details.
