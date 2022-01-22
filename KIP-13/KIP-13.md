@@ -23,7 +23,7 @@ To acquire this amount of ROOK, KD should use a combination of Bitcoin and Ether
 
 ### Potential Strategic Uses
 
-* Expand, retain, and incentive contributors that are vital to the future development of new products and infrastructure for KD
+* Expand, retain, and incentivize contributors that are vital to the future development of new products and infrastructure for KD
 * Allow for additional strategic partnerships, M&A activity, or other strategic token swaps
 * Allow for future fundraising initiatives
 
