@@ -1,7 +1,7 @@
-# KIP-13: Buy back up to $4M in ROOK
+# KIP-13: Empower the multisig to buy back up to $4M of ROOK
 ```
 kip: 13
-title: Buy back up to $4M in ROOK
+title: Empower the multisig to buy back up to $4M of ROOK
 authors: daddymatty <matt@keeperdao.com>
 status: last-call
 created: 2022-01-22
