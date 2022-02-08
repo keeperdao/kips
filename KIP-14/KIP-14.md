@@ -1,6 +1,6 @@
 # KIP-14: Allocate $5,000,000 in stablecoins to act as a traveling liquidation backstop for B.Protocol B.AMMs
 ```
-kip: 10
+kip: 14
 title: Allocate $5,000,000 in stablecoins to act as a traveling liquidation backstop for B.Protocol B.AMMs
 author: hazard <hazard@keeperdao.com>, exeggcute <exeggcute@keeperdao.com>
 status: last-call
