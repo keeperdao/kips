@@ -43,7 +43,7 @@ For every B.AMM that supports the Coordination protocol, KeeperDAO will commit s
 
 Once a particular B.AMM is saturated with other LPs, KeeperDAO may withdraw the seed liquidity and make it available for a successive integration. Deposits in the B.AMM are yield-bearing, and are estimated to earn roughly 10% APY depending on the asset.
 
-### Liquidation flow for KeeperDAO Keepers
+### Transaction flow for KeeperDAO Keepers
 
 The initial B.AMM to support the Coordination protocol is planned to be the B.AMM currently supporting Liquity’s LUSD token.
 
