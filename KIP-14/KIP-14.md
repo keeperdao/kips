@@ -45,7 +45,7 @@ Once a particular B.AMM is saturated with other LPs, KeeperDAO may withdraw the 
 
 ### Liquidation flow for KeeperDAO Keepers
 
-The initial B.AMM to support the Hiding Game is planned to be the B.AMM currently supporting Liquity’s LUSD token.
+The initial B.AMM to support the Coordination protocol is planned to be the B.AMM currently supporting Liquity’s LUSD token.
 
 The B.AMM currently handles approximately 25% of all LUSD liquidations. LUSD liquidation activity can be viewed using the Liquity Dune Analytics dashboard [5].
 
