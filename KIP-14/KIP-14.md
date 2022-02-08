@@ -29,20 +29,17 @@ The system, which was balanced before, is now long ETH and short DAI, and needs 
 
 For a full report, see the B.Protocol B.AMM blog post [2] or B.AMM whitepaper [3].
 
-### KeeperDAO Hiding Game facility
+### KeeperDAO Coordination facility
 
 KeeperDAO and B.Protocol have worked together to research an improvement to the B.AMM which will increase the efficiency of small to medium-sized liquidations, adding value for both B.AMM LPs and the lending protocols which the B.AMM is used to backstop.
 
-Through a modification of the B.AMM fees, KeeperDAO can extend the Hiding Game to the B.AMM, creating a highly efficient environment that prevents MEV leakage and allows KeeperDAO keepers to perform rapid, continuous removal of small to medium-sized portfolio imbalances in the B.AMM. 
+Through a modification of the B.AMM fees, KeeperDAO can extend the Coordination protocol to the B.AMM, creating a highly efficient environment that prevents MEV leakage and allows KeeperDAO keepers to perform rapid, continuous removal of small to medium-sized portfolio imbalances in the B.AMM. 
 
-![bamm_incentive|666x500](upload://q3xb7exUUPtyuoU6AKbg1wSKHkQ.png)
-
-
-The fee modification will allow KeeperDAO keepers to reach arbitrage price sooner, hiding MEV and allowing execution to take place through the Coordination Game, where it can be fairly re-distributed. The improved rebalance efficiency that results will in turn improve yields for Backstoppers, since less of the collateral will be lost to the discount, ultimately helping the B.AMM in its goal of incentivizing a steady reserve of backstop liquidity. The vast majority (~80%) of the MEV captured by KeeperDAO will be redistributed back to the B.AMM through the Coordination Game Economic System [4]. This is Coordinomics in action — everybody wins.
+The fee modification will allow KeeperDAO keepers to reach arbitrage price sooner, hiding MEV and allowing execution to take place through the Coordination protocol, where it can be fairly re-distributed. The improved rebalance efficiency that results will in turn improve yields for Backstoppers, since less of the collateral will be lost to the discount, ultimately helping the B.AMM in its goal of incentivizing a steady reserve of backstop liquidity. The vast majority (~80%) of the MEV captured by KeeperDAO will be redistributed back to the B.AMM through the Coordination Game Economic System [4]. This is Coordinomics in action — everybody wins.
 
 ### KeeperDAO liquidity commitment
 
-For every B.AMM that supports the Coordination Layer, KeeperDAO will commit seed liquidity to help the B.AMM reach immediate production readiness after deployment. This will allow integration partners to be assured of an adequate backstop and service level from the start, and have the added benefit of assuring our commitment to servicing the B.AMM.
+For every B.AMM that supports the Coordination protocol, KeeperDAO will commit seed liquidity to help the B.AMM reach immediate production readiness after deployment. This will allow integration partners to be assured of an adequate backstop and service level from the start, and have the added benefit of assuring our commitment to servicing the B.AMM.
 
 Once a particular B.AMM is saturated with other LPs, KeeperDAO may withdraw the seed liquidity and make it available for a successive integration. Deposits in the B.AMM are yield-bearing, and are estimated to earn roughly 10% APY depending on the asset.
 
