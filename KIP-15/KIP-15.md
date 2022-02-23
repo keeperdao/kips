@@ -55,7 +55,7 @@ We have management capacity for 5 - 8 engineering contractors, so will budget fo
 
 Most product contractors write typescript/react frontend code, but we may also have contracts for DevOps and backend (python).
 
-| IC Description | Per Week | Total |
+| IC Description | Per Week (ROOK) | Total (ROOK) |
 | -------------- | -------- | ----- |
 | Product engineer | 10 | 120 |
 | Product engineer | 10 | 120 |
@@ -72,18 +72,17 @@ Most product contractors write typescript/react frontend code, but we may also h
 
 Over the coming months, we will be adding PTE and FTE roles in business development, customer service, DAO engagement, and governance. Many of these will start on a ROOK grant basis. Kyle will be standing up this team as well as using part of the budget to incentivize and facilitate community participation in growth and operations activities. 
 
-| Description | Per Week | Total |
+| Description | Per Week (ROOK) | Total (ROOK) |
 | ----------- | -------- | ----- |
 | Bizdev | 20 | 240 |
 | Operations | 40 | 480 |
-
 
 
 #### KIP15b3 People Operations: 500 ROOK
 
 Over the coming months, Tommy will be standing up the Workplace Team to help fully implement our intended reorganization to allow us to transform our contributorship and our wider DAO into the most performant, galaxybrained collective as possible. Several people will need to be hired as part of this team (e.g. a technical recruiter, PeopleOps lead, and a Process Coordinator), and they’ll need to be trialed with grants first. Additionally, budget needs to be available for our recruiting needs (e.g. for external recruitment we need to pay a fee of XX% per new hire’s first year salary). At the moment it’s not clear how much ROOK will be needed for this, therefore a big number is chosen. Any ROOK will be spent judiciously, Tommy has been very selective in spending ROOK from the Labs multisig in the past.
 
-| Description | Per Week | Total |
+| Description | Per Week (ROOK) | Total (ROOK) |
 | ----------- | -------- | ----- |
 | Workplace |   --    | 500 |
 
@@ -92,54 +91,54 @@ Over the coming months, Tommy will be standing up the Workplace Team to help ful
 
 As with the previous Labs budget, this will fund small projects that foster community growth, accelerate development, discover and support partners, translations, or other ad hoc projects. Any funds granted through this allocation will be documented and reviewed at the end of the budget period. 
 
-| Description | Per Week | Total |
+| Description | Per Week (ROOK) | Total (ROOK) |
 | ----------- | -------- | ----- |
 | Community grants |   --    | 150 |
 
 
 
-#### KIP15b5 Treasury 180 ROOK
+#### KIP15b5 Treasury: 180 ROOK
 
 We will use ROOK grants to properly incentivize contributing members of the community to support the treasury function of the DAO. Over the coming months, the treasury team will be developing key infrastructure and processes that will define the next era for our treasury, and having community input and buy-in is critical. Furthermore, this provides for a more defined path to a full-time role while allowing the current structure to remain flexible. 
 
-| Description | Per Week | Total |
+| Description | Per Week (ROOK) | Total (ROOK) |
 | ----------- | -------- | ----- |
 | Treasury analyst |   10    | 120 |
 | Treasury analyst |   5    | 60 |
 
 
 
-#### KIP15b6 Studio 240 ROOK
+#### KIP15b6 Studio: 240 ROOK
 
 Over the coming months, Watts will be standing up the Studio Team to fuel high-quality, in-house content generation that will help to consistently communicate our brand, mission, and gigabrain concepts as well as cementing our partnerships and mythos. We’ll be hiring design and production roles to flesh out our creative skillsets and commissioning projects in the interim.
 
-| Description | Per Week | Total |
+| Description | Per Week (ROOK) | Total (ROOK) |
 | ----------- | -------- | ----- |
 | Video producer |   10    | 120 |
 | UX designer |   10    | 120 |
 
 
-#### KIP15b7 Marketing and Branding 600 ROOK
+#### KIP15b7 Marketing and Branding: 600 ROOK
 
 Over the coming period we aim to fill several senior FTE Marketing positions, as well as expanding the Marketing Team with PTE and contract-based contributors. The FTE roles will likely be placed on a ROOK grant first, before they’ll be onboarded. Additionally, we need to have budget for advertising and sponsorship needs to ramp up our marketing efforts now that our main protocol is about to go live. At the moment it’s not clear how much ROOK will be needed, therefore a big round number is chosen. 
 
-| Description | Per Week | Total |
+| Description | Per Week (ROOK) | Total (ROOK) |
 | ----------- | -------- | ----- |
 | Research |   --    | 100 |
 | UX designer |   --    | 500 |
 
 
-#### KIP15b8 USDC Needs $500k
+#### KIP15b8 USDC Needs: 500,000
 
 Over the Budget periods, the Labs team will need to spend USDC on recruiting fees, contractors who do not take ROOK, conferences, advertisements, and there are also expenses paid by Labs members that need to be reimbursed. All spending from this allocation will be documented and reviewed at the end of the Budget period. 
 
-| Description  | Total |
+| Description  | Total (USDC) |
 | ----------- | ----- |
-| Contractors and recruiting | $462,500.00 |
-| Events |  $5000.00 |
-| Conferences | $8000.00 |
-| Team reimbursements | $25,000.00 |
-| Total | $500,500.00 |
+| Contractors and recruiting | 462,500.00 |
+| Events |  5000.00 |
+| Conferences | 8000.00 |
+| Team reimbursements | 25,000.00 |
+| Total | 500,500.00 |
 
 ### KIP15c Excess ROOK Rollover
 
