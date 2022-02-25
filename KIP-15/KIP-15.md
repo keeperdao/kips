@@ -14,7 +14,7 @@ Allocate ROOK, USDC, and ETH for KeeperDAO Labs for March through June 2022.
 
 ## Background
 
-The number of KeeperDAO Labs Individual Contributors (ICs) has grown considerably, and we plan to continue scaling over the new few months. This budget outlines current and forecasted needs for various areas of operations over the budget period.
+This budget outlines current and forecasted needs for various areas of KeeperDAO Labs operations over the stated budget period.
 
 This budget, if approved, will be transferred from the KeeperDAO Treasury (0x9a67F1940164d0318612b497E8e6038f902a00a4) to the KeeperDAO Labs multisig (0xa8b0a855BE21568B93f32805b244158Cc61AD006) which is then used to pay ICs on Mondays (or when an *ad hoc* project is completed). The current signers of the KeeperDAO Labs multisig are @WhatsTheDeetz, @Pai-Sho, and @JZ.
 
