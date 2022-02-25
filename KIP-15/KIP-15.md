@@ -2,7 +2,7 @@
 
 ```
 kip: 15
-title: KeeperDAO Labs Buget March-June 2022
+title: KeeperDAO Labs Budget March-June 2022
 author: whatsthedeetz <kd@keeperdao.com>
 status: last-call
 created: 2022-02-23
