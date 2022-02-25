@@ -8,27 +8,13 @@ status: last-call
 created: 2022-02-23
 ```
 
-## Preface
-
-### Proposal
+## Proposal
 
 Allocate ROOK, USDC, and ETH for KeeperDAO Labs for March through June 2022.
 
-### Background
+## Background
 
 The number of KeeperDAO Labs Individual Contributors (ICs) has grown considerably, and we plan to continue scaling over the new few months. This budget outlines current and forecasted needs for various areas of operations over the budget period.
-
-## Budget 
-
-### Definitions
-
-**Ad Hoc** expenses are expenses which are paid on a case by case basis. For instance, expenses for translations on a web page. These will be documented by Labs members and communicated at the end of the KIP period.
-
-**ICs (Individual Contributors)** are individuals who contribute to the development of the DAO in a formal sense.
-
-**Recurring** expenses are expenses which are paid on a cyclical schedule. For instance, many KeeperDAO Labs ICs work a rough amount of hours per week and are paid on a weekly schedule (historically, on Mondays).
-
-### Budget overview
 
 This budget, if approved, will be transferred from the KeeperDAO Treasury (0x9a67F1940164d0318612b497E8e6038f902a00a4) to the KeeperDAO Labs multisig (0xa8b0a855BE21568B93f32805b244158Cc61AD006) which is then used to pay ICs on Mondays (or when an *ad hoc* project is completed). The current signers of the KeeperDAO Labs multisig are @WhatsTheDeetz, @Pai-Sho, and @JZ.
 
@@ -46,7 +32,7 @@ The breakdown of the ROOK budget is given below, with more detail provided in su
 | Grand Total | 3430 |
 
 
-#### Product and Engineering: 1040 ROOK
+### Product and Engineering: 1040 ROOK
 
 We use ROOK grants for all part-time engineering roles. Currently, we have 3 engineering contractors who are paid weekly at 10 ROOK/week. We estimate that we have management capacity for 5 - 8 engineering contractors. This budget allows for the maximum (8).
 
@@ -61,7 +47,7 @@ We use ROOK grants for all part-time engineering roles. Currently, we have 3 eng
 | Designer | 10 | 120 |
 | Backend engineer | 10 | 120 |
 
-#### Growth and Operations: 720 ROOK
+### Growth and Operations: 720 ROOK
 
 We intend to use ROOK grants for part-time roles in business development, customer service, DAO engagement, and governance. Additionally, we intend to use ROOK grants for those wishing to start on the path to a full-time role.
 
@@ -70,7 +56,7 @@ We intend to use ROOK grants for part-time roles in business development, custom
 | Business development | 20 | 240 |
 | Operations | 40 | 480 |
 
-#### People Operations: 500 ROOK
+### People Operations: 500 ROOK
 
 We intend to use ROOK grants for part-time roles including technical recruiters and process coordinators, in addition to bridging part-time contribution to full-time contribution. In addition, we expect this ROOK budget may be required for other recruiting expenses, including placement fees of up to 25% of the first year salary of a new hire (for certain recruiting firms).
 
@@ -79,7 +65,7 @@ We intend to use ROOK grants for part-time roles including technical recruiters 
 | Workplace |   --    | 500 |
 
 
-#### Community Grants: 150 ROOK
+### Community Grants: 150 ROOK
 
 We intend to use ROOK grants to fund small projects that foster community growth, accelerate development, discover and support partners, translations, or other ad hoc projects.
 
@@ -87,8 +73,7 @@ We intend to use ROOK grants to fund small projects that foster community growth
 | ----------- | -------- | ----- |
 | Community grants |   --    | 150 |
 
-
-#### Treasury: 180 ROOK
+### Treasury: 180 ROOK
 
 We intend to use ROOK grants for part-time roles or for bridging part-time to full-time work, in support of the treasury functions of the DAO.
 
@@ -98,7 +83,7 @@ We intend to use ROOK grants for part-time roles or for bridging part-time to fu
 | Treasury analyst |   5    | 60 |
 
 
-#### Studio: 240 ROOK
+### Studio: 240 ROOK
 
 We intend to use ROOK grants for part-time roles or for bridging part-time to full-time work, on a studio team that can fuel high-quality, in-house content generation. This content will help to consistently communicate our brand, mission, and values, as well as cementing our partnerships and mythos. We’ll be seeking to onboard for design and production roles to flesh out our creative skillsets, and commission projects in the interim.
 
@@ -108,7 +93,7 @@ We intend to use ROOK grants for part-time roles or for bridging part-time to fu
 | UX designer |   10    | 120 |
 
 
-#### Marketing and Branding: 600 ROOK
+### Marketing and Branding: 600 ROOK
 
 We intend to use ROOK grants for part-time roles or for briding part-time to full-time work supporting a marketing function. Additional ROOK budget is required for various advertising and sponsorship needs that will ramp up our marketing efforts ahead of the launch of the Coordination Game.
 
@@ -118,7 +103,7 @@ We intend to use ROOK grants for part-time roles or for briding part-time to ful
 | UX designer |   --    | 500 |
 
 
-#### USDC Needs: 500,000
+### USDC Needs: 500,000
 
 Over the budget period, we forsee the need to spend USDC on placement fees, contractors and vendors who do not take ROOK, conferences, and advertisements.
 
@@ -132,7 +117,7 @@ Over the budget period, we forsee the need to spend USDC on placement fees, cont
 
 ### Excess ROOK and USDC Rollover
 
-The budget above represents in all cases an upper bound. We are not required to spend all of it, and do not seek to. If excess ROOK or USDC exists at the end of the budget period, it will carry over into the subsequent budget period unless superceded by another KIP.
+The budget above represents in all cases an upper bound. It isn't required that we spend all of it, and we do not seek to. If excess ROOK or USDC exists at the end of the budget period, it will carry over into the subsequent budget period unless superceded by another KIP.
 
 
 ## Specification
