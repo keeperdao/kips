@@ -115,6 +115,14 @@ Over the budget period, we forsee the need to spend USDC on placement fees, cont
 | Team reimbursements | 25,000.00 |
 | Total | 500,500.00 |
 
+### ETH Needs: 1
+
+We intend to use 1 ETH for network fees incurred during the transfer of grants over the budget period.
+
+| Description  | Total (ETH) |
+| ----------- | ----- |
+| Gas | 1 |
+
 ### Excess ROOK and USDC Rollover
 
 The budget above represents in all cases an upper bound. It isn't required that we spend all of it, and we do not seek to. If excess ROOK or USDC exists at the end of the budget period, it will carry over into the subsequent budget period unless superceded by another KIP.
