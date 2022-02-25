@@ -13,7 +13,7 @@ replaces: none
 
 ## Proposal
 
-Discontinue support for the Hiding Vaults product.
+Discontinue support for the Hiding Vaults product by suspending new ROOK emissions and notifying users that the product and related services are being deprecated.
 
 ## Background
 
