@@ -1,4 +1,4 @@
-# KIP-15 KeeperDAO Labs Budget March-June 2022
+# KIP-15: KeeperDAO Labs Budget March-June 2022
 
 ```
 kip: 15
@@ -16,12 +16,11 @@ Allocate ROOK, USDC, and ETH for KeeperDAO Labs for March through June 2022.
 
 ### Background
 
-The number of KeeperDAO Labs Individual Contributors (ICs) has grown considerably, and we plan to continue our scaling over the new few months. This budget details out our current and forecasted needs for various areas of operations, including the hiring of many more ICs. The funds will continue to be send to the Labs multisig, and payments to ICs will be sent weekly. 
-
+The number of KeeperDAO Labs Individual Contributors (ICs) has grown considerably, and we plan to continue scaling over the new few months. This budget outlines current and forecasted needs for various areas of operations over the budget period.
 
 ## Budget 
 
-### KIP15a Definitions
+### Definitions
 
 **Ad Hoc** expenses are expenses which are paid on a case by case basis. For instance, expenses for translations on a web page. These will be documented by Labs members and communicated at the end of the KIP period.
 
@@ -29,9 +28,9 @@ The number of KeeperDAO Labs Individual Contributors (ICs) has grown considerabl
 
 **Recurring** expenses are expenses which are paid on a cyclical schedule. For instance, many KeeperDAO Labs ICs work a rough amount of hours per week and are paid on a weekly schedule (historically, on Mondays).
 
-### KIP15b Budget: 3430 ROOK, 288k USDC
+### Budget overview
 
-his budget, if approved, is paid from the DAO Treasury to the Labs Multisig which is then used to pay ICs on Mondays (or when an *ad hoc* project is completed). 
+This budget, if approved, will be transferred from the KeeperDAO Treasury (0x9a67F1940164d0318612b497E8e6038f902a00a4) to the KeeperDAO Labs multisig (0xa8b0a855BE21568B93f32805b244158Cc61AD006) which is then used to pay ICs on Mondays (or when an *ad hoc* project is completed). The current signers of the KeeperDAO Labs multisig are @WhatsTheDeetz, @Pai-Sho, and @JZ.
 
 The breakdown of the ROOK budget is given below, with more detail provided in subsections.
 
@@ -47,13 +46,9 @@ The breakdown of the ROOK budget is given below, with more detail provided in su
 | Grand Total | 3430 |
 
 
-#### KIP15b1 Product and Engineering: 1040 ROOK
+#### Product and Engineering: 1040 ROOK
 
-We use ROOK grants for all part time engineering roles. This provides a nimble and convenient team structure for certain types of work and is typically used as a path to full time employment without doing the usual coding interview circus. Currently, we have 3 engineering contractors who are paid weekly at 10 ROOK/week. 
-
-We have management capacity for 5 - 8 engineering contractors, so will budget for 8. It is unlikely we will use all this budget, but if we did it would be very bullish for the product team!
-
-Most product contractors write typescript/react frontend code, but we may also have contracts for DevOps and backend (python).
+We use ROOK grants for all part-time engineering roles. Currently, we have 3 engineering contractors who are paid weekly at 10 ROOK/week. We estimate that we have management capacity for 5 - 8 engineering contractors. This budget allows for the maximum (8).
 
 | IC Description | Per Week (ROOK) | Total (ROOK) |
 | -------------- | -------- | ----- |
@@ -66,40 +61,36 @@ Most product contractors write typescript/react frontend code, but we may also h
 | Designer | 10 | 120 |
 | Backend engineer | 10 | 120 |
 
+#### Growth and Operations: 720 ROOK
 
-
-#### KIP15b2 Growth and Operations: 720 ROOK
-
-Over the coming months, we will be adding PTE and FTE roles in business development, customer service, DAO engagement, and governance. Many of these will start on a ROOK grant basis. Kyle will be standing up this team as well as using part of the budget to incentivize and facilitate community participation in growth and operations activities. 
+We intend to use ROOK grants for part-time roles in business development, customer service, DAO engagement, and governance. Additionally, we intend to use ROOK grants for those wishing to start on the path to a full-time role.
 
 | Description | Per Week (ROOK) | Total (ROOK) |
 | ----------- | -------- | ----- |
-| Bizdev | 20 | 240 |
+| Business development | 20 | 240 |
 | Operations | 40 | 480 |
 
+#### People Operations: 500 ROOK
 
-#### KIP15b3 People Operations: 500 ROOK
-
-Over the coming months, Tommy will be standing up the Workplace Team to help fully implement our intended reorganization to allow us to transform our contributorship and our wider DAO into the most performant, galaxybrained collective as possible. Several people will need to be hired as part of this team (e.g. a technical recruiter, PeopleOps lead, and a Process Coordinator), and they’ll need to be trialed with grants first. Additionally, budget needs to be available for our recruiting needs (e.g. for external recruitment we need to pay a fee of XX% per new hire’s first year salary). At the moment it’s not clear how much ROOK will be needed for this, therefore a big number is chosen. Any ROOK will be spent judiciously, Tommy has been very selective in spending ROOK from the Labs multisig in the past.
+We intend to use ROOK grants for part-time roles including technical recruiters and process coordinators, in addition to bridging part-time contribution to full-time contribution. In addition, we expect this ROOK budget may be required for other recruiting expenses, including placement fees of up to 25% of the first year salary of a new hire (for certain recruiting firms).
 
 | Description | Per Week (ROOK) | Total (ROOK) |
 | ----------- | -------- | ----- |
 | Workplace |   --    | 500 |
 
 
-#### KIP15b4 Grants: 150 ROOK
+#### Community Grants: 150 ROOK
 
-As with the previous Labs budget, this will fund small projects that foster community growth, accelerate development, discover and support partners, translations, or other ad hoc projects. Any funds granted through this allocation will be documented and reviewed at the end of the budget period. 
+We intend to use ROOK grants to fund small projects that foster community growth, accelerate development, discover and support partners, translations, or other ad hoc projects.
 
 | Description | Per Week (ROOK) | Total (ROOK) |
 | ----------- | -------- | ----- |
 | Community grants |   --    | 150 |
 
 
+#### Treasury: 180 ROOK
 
-#### KIP15b5 Treasury: 180 ROOK
-
-We will use ROOK grants to properly incentivize contributing members of the community to support the treasury function of the DAO. Over the coming months, the treasury team will be developing key infrastructure and processes that will define the next era for our treasury, and having community input and buy-in is critical. Furthermore, this provides for a more defined path to a full-time role while allowing the current structure to remain flexible. 
+We intend to use ROOK grants for part-time roles or for bridging part-time to full-time work, in support of the treasury functions of the DAO.
 
 | Description | Per Week (ROOK) | Total (ROOK) |
 | ----------- | -------- | ----- |
@@ -107,10 +98,9 @@ We will use ROOK grants to properly incentivize contributing members of the comm
 | Treasury analyst |   5    | 60 |
 
 
+#### Studio: 240 ROOK
 
-#### KIP15b6 Studio: 240 ROOK
-
-Over the coming months, Watts will be standing up the Studio Team to fuel high-quality, in-house content generation that will help to consistently communicate our brand, mission, and gigabrain concepts as well as cementing our partnerships and mythos. We’ll be hiring design and production roles to flesh out our creative skillsets and commissioning projects in the interim.
+We intend to use ROOK grants for part-time roles or for bridging part-time to full-time work, on a studio team that can fuel high-quality, in-house content generation. This content will help to consistently communicate our brand, mission, and values, as well as cementing our partnerships and mythos. We’ll be seeking to onboard for design and production roles to flesh out our creative skillsets, and commission projects in the interim.
 
 | Description | Per Week (ROOK) | Total (ROOK) |
 | ----------- | -------- | ----- |
@@ -118,9 +108,9 @@ Over the coming months, Watts will be standing up the Studio Team to fuel high-q
 | UX designer |   10    | 120 |
 
 
-#### KIP15b7 Marketing and Branding: 600 ROOK
+#### Marketing and Branding: 600 ROOK
 
-Over the coming period we aim to fill several senior FTE Marketing positions, as well as expanding the Marketing Team with PTE and contract-based contributors. The FTE roles will likely be placed on a ROOK grant first, before they’ll be onboarded. Additionally, we need to have budget for advertising and sponsorship needs to ramp up our marketing efforts now that our main protocol is about to go live. At the moment it’s not clear how much ROOK will be needed, therefore a big round number is chosen. 
+We intend to use ROOK grants for part-time roles or for briding part-time to full-time work supporting a marketing function. Additional ROOK budget is required for various advertising and sponsorship needs that will ramp up our marketing efforts ahead of the launch of the Coordination Game.
 
 | Description | Per Week (ROOK) | Total (ROOK) |
 | ----------- | -------- | ----- |
@@ -128,9 +118,9 @@ Over the coming period we aim to fill several senior FTE Marketing positions, as
 | UX designer |   --    | 500 |
 
 
-#### KIP15b8 USDC Needs: 500,000
+#### USDC Needs: 500,000
 
-Over the Budget periods, the Labs team will need to spend USDC on recruiting fees, contractors who do not take ROOK, conferences, advertisements, and there are also expenses paid by Labs members that need to be reimbursed. All spending from this allocation will be documented and reviewed at the end of the Budget period. 
+Over the budget period, we forsee the need to spend USDC on placement fees, contractors and vendors who do not take ROOK, conferences, and advertisements.
 
 | Description  | Total (USDC) |
 | ----------- | ----- |
@@ -140,12 +130,13 @@ Over the Budget periods, the Labs team will need to spend USDC on recruiting fee
 | Team reimbursements | 25,000.00 |
 | Total | 500,500.00 |
 
-### KIP15c Excess ROOK Rollover
+### Excess ROOK and USDC Rollover
 
-If excess ROOK exists (due to an IC role not being filled, an ad hoc need becoming unneeded, an IC needing a week off, etc.), excess ROOK will carry over to the next quarter.
+The budget above represents in all cases an upper bound. We are not required to spend all of it, and do not seek to. If excess ROOK or USDC exists at the end of the budget period, it will carry over into the subsequent budget period unless superceded by another KIP.
 
 
 ## Specification
 
-1. Send 3430 ROOK, 500,500 USDC and 1 ETH for gas to the current KeeperDAO Labs multi-sig address (0xa8b0a855BE21568B93f32805b244158Cc61AD006). It will be managed as it has been for the prior few months, with payments on Mondays for recurring ICs or on project completion by ad hoc ICs. @WhatsTheDeetz, @Pai-Sho, and @JZ will continue to be the signers on this 2/3 multisig. 
-2. Pay ICs on recurring or ad hoc schedule throughout the coming budget period.
+1. Transfer 3430 ROOK, 500,500 USDC and 1 ETH (for gas) from the KeeperDAO Treasury (0x9a67F1940164d0318612b497E8e6038f902a00a4) to the KeeperDAO Labs multi-sig (0xa8b0a855BE21568B93f32805b244158Cc61AD006).
+2. As appropriate, provide funding from the KeeperDAO Labs multi-sig (0xa8b0a855BE21568B93f32805b244158Cc61AD006) to meet the needs outlined above during the budget period.
+3. Ensure good recordkeeping to provide for review of any transactions by the DAO.
