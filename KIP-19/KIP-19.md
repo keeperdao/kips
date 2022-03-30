@@ -14,7 +14,7 @@ replaces: none
 Sunset the KeeperDAO Liquidity Pools by ending ROOK emissions and providing a timeline for withdrawal of DAO Treasury deposits.
 
 ## Background 
-The Liquidity Pools are a waste of our treasury, they dilute the token while adding no revenue and the upcoming trading protocol upgrade removes the need for flash loan pools as user funds are used for MEV capture. Given this, it no longer makes sense for us to dedicate resources to its maintenance as more is gained from sunsetting the product and reallocating the deposited funds to more directly align with KeeperDAO's long-term vision.
+The Liquidity Pools are a waste of our treasury, they dilute tokenholders while adding no revenue, and the upcoming trading protocol upgrade removes the need for flash loan pools as user funds are used for MEV capture. Given this, it no longer makes sense for us to dedicate resources to its maintenance as more is gained from sunsetting the product and reallocating the deposited funds to more directly align with KeeperDAO's long-term vision.
 
 As it stands, we have ~48 million dollars worth of assets deposited to the liquidity pools. A summary is given below.
 
