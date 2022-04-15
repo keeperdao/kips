@@ -1,4 +1,4 @@
-# KIP-20: Extend an R&D grant to study a dedicated arbitrage service for TWAMM
+# KIP-20: Fund an R&D grant to study a dedicated arbitrage service for TWAMM
 
 ```
 kip: 20
