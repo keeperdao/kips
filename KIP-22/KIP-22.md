@@ -4,7 +4,7 @@
 kip: 22
 title: Treasury Utilization Opportunity into mStable Save
 author: loth.eth of mStable
-status: submitted
+status: submitted/in process
 tags: none
 created: 2022-02-15
 replaced-by: none
@@ -48,7 +48,7 @@ mUSD exposition is:
 
 As of the time of this proposal, the Save APY can be broken down as follows: 55% of it is coming from lending interest revenues on Aave & Compound, 22.5% from our AMM swap fees & the remaining 22.5% from platform rewards liquidation. It would mean that 25% of Save yield is independent of lending protocol and their inherent risk. 
 
-## Keeper DAO opportunity with mStable
+## Rook DAO opportunity with mStable
 
 mStable Save is a stablecoin-agnostic savings platform for DAOs.
 Looking closely at Rook treasury, we think such a utilization move could make sense.
@@ -61,11 +61,11 @@ Considering the existing healthy structure of the treasury (Stablecoins being 1/
 
 According to an October blog [post](https://blog.rook.fi/financial-update-october-2021/), Rook DAO's yearly burn rate was $740,499, which would take a $4.93m allocation at a 15% rate (mStable Save APY) to cover it fully. Rook DAO could thus consider allocating between 50% and 80% of its unused USD holdings to cover (partially or fully) the DAO yearly expenses
 
-To get started, we recommend that KeeperDAO deposit funds in tranches of $500,000 on a quarterly basis for a period of the community’s choosing. Using current data as of February 2022, this would result in an estimated annual yield of $210,595 if done for a full year. This would be an 11% marginal rate (Save proceeds are automatically compounded). 
+To get started, we recommend that Rook's treasury deposit funds in tranches of $500,000 on a quarterly basis for a period of the community’s choosing. Using current data as of February 2022, this would result in an estimated annual yield of $210,595 if done for a full year. This would be an 11% marginal rate (Save proceeds are automatically compounded). 
 
 Please find below: 
 
-* A scenario analysis for deploying between 50% and 100% of Keeper Stablecoin Treasury into Save with the corresponding yearly return
+* A scenario analysis for deploying between 50% and 100% of Rook Stablecoin Treasury into Save with the corresponding yearly return
 * The tranches version of it. 
 
 ![image2](KIP-22image2.png)
