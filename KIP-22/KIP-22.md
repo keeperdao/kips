@@ -50,12 +50,7 @@ As of the time of this proposal, the Save APY can be broken down as follows: 55%
 
 ## Rook DAO opportunity with mStable
 
-mStable Save is a stablecoin-agnostic savings platform for DAOs.
-Looking closely at Rook treasury, we think such a utilization move could make sense.
-
-Indeed, 29.3% of the Rook DAO Treasury is composed of stablecoins. Of this 34%, $3.3m DAI is already used. There is still $5.2m USD that could be utilised.
-
-Considering the existing healthy structure of the treasury (Stablecoins being 1/3 of the total treasury) and the re-collateralization backstop protecting the $ROOK token, the protocol could definitely explore moving a significant part of its available stablecoins
+mStable Save is a stablecoin-agnostic savings platform for DAOs.Looking closely at Rook's treasury, we think such a utilization move could make sense. Considering the existing healthy structure of the treasury (Stablecoins being 1/3 of the total treasury) and the re-collateralization backstop protecting the $ROOK token, the protocol could definitely explore moving a significant part of its available stablecoins
 
 ## Rationale & Scenario analysis
 
