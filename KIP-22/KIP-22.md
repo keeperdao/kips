@@ -50,11 +50,11 @@ As of the time of this proposal, the Save APY can be broken down as follows: 55%
 
 ## Rook DAO opportunity with mStable
 
-mStable Save is a stablecoin-agnostic savings platform for DAOs.Looking closely at Rook's treasury, we think such a utilization move could make sense. Considering the existing healthy structure of the treasury (Stablecoins being 1/3 of the total treasury) and the re-collateralization backstop protecting the $ROOK token, the protocol could definitely explore moving a significant part of its available stablecoins
+mStable Save is a stablecoin-agnostic savings platform for DAOs.Looking closely at Rook's treasury, we think such a utilization move could make sense. Considering the existing healthy structure of the treasury (stablecoins being 1/3 of the total treasury) and the re-collateralization backstop protecting the $ROOK token, the protocol could definitely explore moving a significant part of its available stablecoins
 
 ## Rationale & Scenario analysis
 
-According to an October blog [post](https://blog.rook.fi/financial-update-october-2021/), Rook DAO's yearly burn rate was $740,499, which would take a $4.93m allocation at a 15% rate (mStable Save APY) to cover it fully. Rook DAO could thus consider allocating between 50% and 80% of its unused USD holdings to cover (partially or fully) the DAO yearly expenses
+According to an October blog [post](https://blog.rook.fi/financial-update-october-2021/), Rook DAO's yearly burn rate was $740,499, which would take a $4.93m allocation at a 15% APY to cover it fully. Rook DAO could thus consider allocating between 50% and 80% of its unused USD holdings to cover (partially or fully) the DAO yearly expenses
 
 To get started, we recommend that Rook's treasury deposit funds in tranches of $500,000 on a quarterly basis for a period of the community’s choosing. Using current data as of February 2022, this would result in an estimated annual yield of $210,595 if done for a full year. This would be an 11% marginal rate (Save proceeds are automatically compounded). 
 
