@@ -3,7 +3,7 @@
 ```
 kip: 22
 title: Treasury Utilization Opportunity into mStable Save
-author: loth.eth of mStable
+author: loth.eth of mStable <theo@mstable.org>
 status: submitted/in process
 tags: none
 created: 2022-02-15
@@ -23,7 +23,7 @@ Both teams agreed that diversification of Rook's treasury into this product coul
 
 ## Stablecoins and DAOs
 
-We’re in the early days of DAO Treasury Management, driven by the fact that DAO treasuries have grown enormously in very little time, while tooling available to them remains fragmented, suboptimal and incomplete
+We’re in the early days of DAO treasury management, driven by the fact that DAO treasuries have grown enormously in very little time, while tooling available to them remains fragmented, suboptimal and incomplete
 
 Within this framework, we think it is sensible to expand the use of stablecoins within DAO treasuries. Stablecoins realize the value accrued within the treasury, secure the protocol OPEX and offer long-run stability against market cycles. Beyond that, they give the opportunity to create sources of non-operating income while enabling opportunistic investment behaviours that create value for the DAO (e.g. buying the dip, token buybacks, etc.).
 
@@ -33,7 +33,7 @@ Making stablecoins an integral part of a DAO’s diversification strategy will e
 
 mStable is a decentralized stablecoin ecosystem producing sustainable yield on USD. The protocol has been operating for 22 months without interruption or hacks and is one of the safest projects in DeFi for stablecoins. mStable scored 93% on DefiSafety review as of March 17, 2022 [link](https://www.defisafety.com/pqrs?title=mstable). The project is backed by Three Arrows Capital, DACM, DeFiance Capital & Alameda Research among others.
 
-As of the time of this proposal, Save APY was historically around 15%, significantly outperforming competition (Yearn, Aave or Curve). Please check this link for more granular historic performance details (Dune dashboard [here](https://dune.com/naddison/mStable-imUSD-returns)). 
+As of the time of this proposal, Save APY was historically around 15%, significantly outperforming competition (Yearn, Aave or Curve). Please check this link for more granular and up to date historic performance details (Dune dashboard [here](https://dune.com/naddison/mStable-imUSD-returns)). 
 ![Image1](KIP-22image.jpg)
 
 
@@ -50,7 +50,7 @@ As of the time of this proposal, the Save APY can be broken down as follows: 55%
 
 ## Rook DAO opportunity with mStable
 
-mStable Save is a stablecoin-agnostic savings platform for DAOs.Looking closely at Rook's treasury, we think such a utilization move could make sense. Considering the existing healthy structure of the treasury (stablecoins being 1/3 of the total treasury) and the re-collateralization backstop protecting the $ROOK token, the protocol could definitely explore moving a significant part of its available stablecoins
+mStable Save is a stablecoin-agnostic savings platform for DAOs. Looking closely at Rook's treasury, we think such a utilization move could make sense. Considering the existing healthy structure of the treasury given its significant holdings of stablecoins, and the re-collateralization backstop protecting the $ROOK token, the protocol could explore moving a significant part of its available stablecoins
 
 ## Rationale & Scenario analysis
 
@@ -60,8 +60,8 @@ To get started, we recommend that Rook's treasury deposit funds in tranches of $
 
 Please find below: 
 
-* A scenario analysis for deploying between 50% and 100% of Rook Stablecoin Treasury into Save with the corresponding yearly return
-* The tranches version of it. 
+* A scenario analysis for deploying between 50% and 100% of Rook Stablecoin Treasury into Save with the corresponding yearly return based on February 2022 data
+* The tranches version of same. 
 
 ![image2](KIP-22image2.png)
 
