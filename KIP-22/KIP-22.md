@@ -46,7 +46,7 @@ mUSD exposition is:
 * 51% to Aave
 * 49% to Compound
 
-As of the time of this proposal, the Save APY can be broken down as follows: 55% of it is coming from lending interest revenues on Aave & Compound, 22.5% from our AMM swap fees & the remaining 22.5% from platform rewards liquidation. It would mean that 25% of Save yield is independent of lending protocol and their inherent risk. 
+As of the time of this proposal, the Save APY can be broken down as follows: 55% of it is coming from lending interest revenues on Aave & Compound, 22.5% from our AMM swap fees & the remaining 22.5% from platform rewards liquidation. It would mean that 22.5% of Save yield is independent of lending protocol and their inherent risk. 
 
 ## Rook DAO opportunity with mStable
 
