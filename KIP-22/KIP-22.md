@@ -78,4 +78,6 @@ More generally, benefits would be:
 * Non-operating revenue stream
 * Seamless treasury management
 
+## Specification
 
+Rook's treasury to deposit funds in tranches of $500,000 on a quarterly basis for a period of the community's choosing. 
