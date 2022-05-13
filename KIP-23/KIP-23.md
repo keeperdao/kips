@@ -1,4 +1,4 @@
-# Establish a Discretionary Investment Limit
+# KIP-23: Establish a Discretionary Investment Limit
 
 ```
 kip: 23
