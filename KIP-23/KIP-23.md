@@ -9,6 +9,7 @@ tags: none
 created: 2022-4-25
 replaced-by: none
 replaces: none
+dependency: KIP-12, KIP-21
 ```
 
 ## Proposal
