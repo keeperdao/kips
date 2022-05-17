@@ -1,8 +1,8 @@
-# KIP-22: Treasury Utilization Opportunity into mStable Save
+# KIP-22: Treasury Utilization Opportunity with mStable Save
 
 ```
 kip: 22
-title: Treasury Utilization Opportunity into mStable Save
+title: Treasury Utilization Opportunity with mStable Save
 author: loth.eth of mStable <theo@mstable.org>
 status: submitted
 tags: none
