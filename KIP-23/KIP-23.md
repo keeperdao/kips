@@ -14,13 +14,13 @@ dependency: KIP-12, KIP-21
 
 ## Proposal
 
-Empower Rook Labs to be able to make investments up to the greater of $5M or 5% of the treasury’s balance every 180 days.
+Empower Rook Labs to be able to make investments up to the greater of $5M or 5% of the treasury’s notional value every 360 days.
 
 ## Background 
 
 While DAO input and buy-in are imperative to the long-term success and sustainability of our financial position, certain opportunities present themselves that must be capitalized on quickly and in a non-public fashion. To ensure these opportunities are not lost due to poor execution or front running, Rook Labs must have some discretion to utilize funds without going through the governance process.
 
-More specifically, this KIP proposes that Rook Labs be empowered to make investments up to the greater of $5M or 5% of the treasury’s balance every 180 days. Note: the limits around discretionary investments are cumulative in that the ROOK team would not be able to execute ten separate $1M transactions to avoid going through governance.
+More specifically, this KIP proposes that Rook Labs be empowered to make investments up to the greater of $5M or 5% of the treasury’s notional value every 360 days. Note: the limits around discretionary investments are cumulative in that the ROOK team would not be able to execute five separate $1M transactions to avoid going through governance.
 
 To ensure proper due care and diligence was performed, the ROOK team must present their rationale to the DAO within 48 hours of executing the transaction(s). Furthermore, Rook Labs must present that the investment was approved by the CEO and CTO.
 Potential Applications:
@@ -43,6 +43,6 @@ In the event that the community comes to consensus that a discretionary investme
 
 ## Specification
 
-Empower Rook Labs to be able to make investments up to the greater of $5M or 5% of the treasury’s balance every 180 days.
+Empower Rook Labs to be able to make investments up to the greater of $5M or 5% of the treasury’s notional value every 360 days.
 
 
