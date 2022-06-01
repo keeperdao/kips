@@ -4,7 +4,7 @@
 kip: 22
 title: Treasury Utilization Opportunity with mStable Save
 author: loth.eth of mStable <theo@mstable.org>
-status: submitted
+status: adopted
 tags: none
 created: 2022-02-15
 replaced-by: none
