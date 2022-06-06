@@ -14,7 +14,7 @@ dependency: KIP-12, KIP-21
 
 ## Proposal
 
-Empower Rook Labs to be able to make investments up to the greater of $5M or 5% of the treasury’s notional value every 360 days.
+Empower Rook Labs to be able to make investments up to the lesser of $5M or 5% of the treasury’s notional value every 360 days.
 
 ## Background 
 
@@ -43,6 +43,6 @@ In the event that the community comes to consensus that a discretionary investme
 
 ## Specification
 
-Empower Rook Labs to be able to make investments up to the greater of $5M or 5% of the treasury’s notional value every 360 days.
+Empower Rook Labs to be able to make investments up to the lesser of $5M or 5% of the treasury’s notional value every 360 days.
 
 
