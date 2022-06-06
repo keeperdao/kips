@@ -4,7 +4,7 @@
 kip: 20
 title: Extend an R&D grant to study a dedicated arbitrage service for TWAMM
 author: 0x70626a
-status: last-call
+status: adopted
 tags: none
 created: 2022-03-30
 replaced-by: none
