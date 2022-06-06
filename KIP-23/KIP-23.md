@@ -4,7 +4,7 @@
 kip: 23
 title: Establish a Discretionary Investment Limit
 author: DaddyMatty <matt@rook.fi>
-status: last-call
+status: adopted
 tags: none
 created: 2022-4-25
 replaced-by: none
