@@ -4,7 +4,7 @@
 kip: 19
 title: Sunset the Liquidity Pools product
 author: YungPeso
-status: last-call
+status: adopted
 tags: none
 created: 2022-03-09
 replaced-by: none
