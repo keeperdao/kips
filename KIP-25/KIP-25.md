@@ -16,10 +16,10 @@ Proceed with the withdrawal of all Rook treasury USDC, and related earnings, fro
 
 ## References
 
-[1] [KIP-6 forum post](https://forum.rook.fi/t/kip-6-yield-generation-on-maple-finance/157/13) 
-[2] [Rook's Current Maple Position](https://dune.com/0x_stubbs/Rook-Ecosystem) 
-[3] [FT article: Three Arrows Capital Margin Call](https://www.ft.com/content/126d8b02-f06a-4fd9-a57b-9f4ceab3de71) 
-[4] [Coindesk article: Celsius Functional Insolvency ](https://www.coindesk.com/business/2022/06/16/how-crypto-lender-celsius-overheated/)
+1. [KIP-6 forum post](https://forum.rook.fi/t/kip-6-yield-generation-on-maple-finance/157/13) 
+2. [Rook's Current Maple Position](https://dune.com/0x_stubbs/Rook-Ecosystem) 
+3. [FT article: Three Arrows Capital Margin Call](https://www.ft.com/content/126d8b02-f06a-4fd9-a57b-9f4ceab3de71) 
+4. [Coindesk article: Celsius Functional Insolvency ](https://www.coindesk.com/business/2022/06/16/how-crypto-lender-celsius-overheated/)
 
 ## Background
 
