@@ -76,7 +76,7 @@ The analysis supporting this proposal proceeded through two stages: analysis of 
 
 ## Protocol Analysis
 
-The Official Team evaluated the liquid staking landscape using a combination of metrics and sourcing. : Trustlessness/Concentration, Tokenomics, Security/risks, and Composability/Liquidity. These metrics gave context to the different trade-offs between liquid staking providers and allowed the team to discern the protocols aligned with Rook’s best interests. The analysis presented below represents a summary of the main takeaways from our research. For more analysis, see the protocol-specific research reports at [4], [8], [12], and below.
+The Official Team evaluated the liquid staking landscape using a combination of metrics and sourcing: Trustlessness/Concentration, Tokenomics, Security/risks, and Composability/Liquidity. These metrics gave context to the different trade-offs between liquid staking providers and allowed the team to discern the protocols aligned with Rook’s best interests. The analysis presented below represents a summary of the main takeaways from our research. For more analysis, see the protocol-specific research reports at [4], [8], [12], and below.
 
 Note: All figures in the remainder of this section are as of June 1, 2022.
 
@@ -238,7 +238,7 @@ Factors that may impact these forecasted returns include:
 * Timing of the merge to POS ETH
 * Changes to staking and ETH protocol tokenomics
 
-In addition to the yield gained from the staked assets, Stakewise has agreed to provide half of RD’s anticipated staking fees for one year (or 5% of the earnings of the ETH Rook DAO stakes on their platform)  in SWISE tokens upon staking funds. Assuming Rook DAO stakes 3,317 ETH at an average staking yield of 8%, this would result in an additional $22.5k in net revenues upon staking of funds. Although Statewise has not relayed any lockup period for these funds, the Official Team recommends that Rook DAO through this proposal commit to not selling any SWISE tokens for 120 days after staking with Stakewise to establish good faith with the Stakewise community. Assuming prices remain consistent for both the SWISE incentives and the ETH earned, this would bring the total expected income from these investments to $597,528. 
+In addition to the yield gained from the staked assets, Stakewise has agreed to provide half of RD’s anticipated staking fees for one year (or 5% of the earnings of the ETH Rook DAO stakes on their platform)  in SWISE tokens upon staking funds. Assuming Rook DAO stakes 3,317 ETH at an average staking yield of 8%, this would result in an additional $22.5k in net revenues upon staking of funds. Although Stakewise has not relayed any lockup period for these funds, the Official Team recommends that Rook DAO through this proposal commit to not selling any SWISE tokens for 120 days after staking with Stakewise to establish good faith with the Stakewise community. Assuming prices remain consistent for both the SWISE incentives and the ETH earned, this would bring the total expected income from these investments to $597,528. 
 
 
 Note: it is expected that yield derived from staking ETH will significantly improve post-merge. These yields are expected to be anywhere between 8-15%. Because the timing of the merge to PoS ETH is unknown we have excluded these returns from this analysis.
