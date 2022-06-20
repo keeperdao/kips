@@ -2,7 +2,7 @@
 
 ```
 kip: 24
-title: Establish a Discretionary Investment Limit
+title: Strategic Use of ETH for Yield Generation
 author: DaddyMatty <matt@rook.fi>, starfire <starryfire777@gmail.com>, Wes2 <wes@rook.fi>
 status: review
 tags: none
