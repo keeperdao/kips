@@ -1,7 +1,7 @@
 **KIP-24: Strategic Use of ETH for Yield Generation**
 
 ```
-kip: 23
+kip: 24
 title: Establish a Discretionary Investment Limit
 author: DaddyMatty <matt@rook.fi>, starfire <starryfire777@gmail.com>, Wes2 <wes@rook.fi>
 status: review
