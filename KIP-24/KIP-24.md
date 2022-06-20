@@ -3,7 +3,7 @@
 ```
 kip: 23
 title: Establish a Discretionary Investment Limit
-author: DaddyMatty <matt@rook.fi>, starfire <>, Wes2 <wes@rook.fi>
+author: DaddyMatty <matt@rook.fi>, starfire <starryfire777@gmail.com>, Wes2 <wes@rook.fi>
 status: review
 tags: none
 created: 2022-6-2
