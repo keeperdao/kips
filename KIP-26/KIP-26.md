@@ -1,4 +1,4 @@
-# KIP 26: Extend KIP-21 to end of 2022
+# KIP-26: Extend KIP-21 to end of 2022
 
 ```
 kip: 26
