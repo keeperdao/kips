@@ -8,7 +8,7 @@ authors:  @DaddyMatty <matt@rook.fi>, @JasonW <jasonw@rook.fi>; @rama <rama@rook
 status: voting
 created: 2022-07-05
 replaces: KIP-21
-dependencies: KIP-12
+dependencies: KIP-12, KIP-21
 ```
 ## Proposal
 
@@ -31,7 +31,7 @@ This KIP proposes to extend the powers granted in KIP-21 (and by extension, thos
 
 KIP-12 [1] empowered @hazard and @JZ to expand and organize KeeperDAO during the first quarter of 2022, and was extended by KIP-21 [2] through the second quarter of 2022. This KIP proposes to extend the same powers articulated in those proposals.  
 
-### Term of delegation
+### Term of Delegation
 
 This proposal will last for the six months ending December 31, 2022, unless superseded by another KIP prior to that date. 
 
@@ -47,7 +47,7 @@ The leadership team has driven a complete reorganization of the DAO’s contribu
 
 Continuity in leadership will be essential for Rook as a whole to realize the potential of the transformations initiated in the first half of 2022. Keeping current leadership in place will enable Rook to reach the goals for Q3 and beyond as set out in Rook’s Q2 quarterly report [4].
 
-### Potential risks and mitigation
+### Potential Risks and Mitigation
 
 Continuing to delegate these powers to hazard and JZ could pose potential risks to the DAO given the concentration of authority.  The fundamental mitigation of this risk is in the temporary nature of this proposal. This KIP is intended to provide time-limited authority to complete the governance and organizational reforms described in the Q2 report [4]. Those reforms will include frameworks that establish ongoing structures for authority and accountability that, once debated with and ratified by the community, will eliminate the need for further extensions such as this KIP. 
 
@@ -66,8 +66,8 @@ The leadership will operate under the review of the Sophons as established in KI
 
 The leadership team members to be delegated the powers in this proposal are: 
 
-- @hazard, CEO
-- @JZ, CTO
+* @hazard, CEO
+* @JZ, CTO
 
 ## Specification
 
