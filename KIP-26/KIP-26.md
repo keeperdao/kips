@@ -5,7 +5,7 @@ kip: 26
 title: Extend KIP-21 to end of 2022
 category: delegation of powers
 authors:  @DaddyMatty <matt@rook.fi>, @JasonW <jasonw@rook.fi>; @rama <rama@rook.fi>, @tommy <tommy@rook.fi>; @watts <watts@rook.fi>; @WhatstheDeetz <kd@rook.fi>
-status: voting
+status: final
 created: 2022-07-05
 replaces: KIP-21
 dependencies: KIP-12, KIP-21
